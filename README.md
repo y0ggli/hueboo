@@ -5,6 +5,6 @@ Trailer:
 https://youtu.be/b23qYNQ274g
 
 Credits:
-Patrick Stillhart
-Seline Schwab
+Patrick Stillhart,
+Seline Schwab,
 Yannick Bättig
